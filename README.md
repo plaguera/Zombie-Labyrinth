@@ -4,7 +4,7 @@
 |Miembros|Correo|
 |-|-|
 |Pedro Lagüera Cabrera|alu0100891485@ull.edu.es|
-|Abián Torres Torres|alu0100______@ull.edu.es|
+|Abián Torres Torres|alu0100887686@ull.edu.es|
 
 ### Introducción
 ---
@@ -34,5 +34,3 @@ El juego se basa en un sistema de niveles, siendo cada nivel, un laberinto gener
 | **Adaptación del Cámaras a Estéreo de Cardboard** | Abián / Pedro |
 | **Adición de Soporte de Gamepad y Botón Magnético** | Abián / Pedro |
 | Inclusión de Pantalla de Inicio | Pedro |
-
-> Written with [StackEdit](https://stackedit.io/).
