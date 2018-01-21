@@ -17,8 +17,11 @@ El juego se basa en un sistema de niveles, siendo cada nivel, un laberinto gener
 ### Controles
 ---
 Movimiento -> WASD o Joystick Gamepad
+
 Rotar Cámara -> ALT + Ratón o Cardboard
+
 Correr -> SHIFT o Botón Magnético
+
 Atacar -> Click Izquierdo o Disparo por Defecto
 
 ### División y Realización del Trabajo
