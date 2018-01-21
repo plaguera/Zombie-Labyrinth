@@ -14,6 +14,13 @@ Este juego consiste en un simulador de Realidad Virtual basado en Unity y usando
 ---
 El juego se basa en un sistema de niveles, siendo cada nivel, un laberinto generado al azar de manera procedural. El jugador es emplazado en un lugar al azar dentro del laberinto y también lo son número, que viene determinado por el nivel, de zombies (+Nivel -> + Enemigos) que persiguen al jugador cuando este entra en su campo de visión. El jugador pierde una determinada cantidad de salud cada vez que es atacado por un zombie, pero puede recuperar salud al tocar una poción y atacar a estos y matarlos. Para avanzar de nivel, el jugador necesita buscar y coger una llave que se ha creado en una posición al azar, una vez obtenida la llave el jugador debe buscar el portal que le llevará al siguiente nivel.
 
+### Controles
+---
+Movimiento -> WASD o Joystick Gamepad
+Rotar Cámara -> ALT + Ratón o Cardboard
+Correr -> SHIFT o Botón Magnético
+Atacar -> Click Izquierdo o Disparo por Defecto
+
 ### División y Realización del Trabajo
 
 | Tarea | Miembro que la realizó |
